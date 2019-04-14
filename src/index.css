@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: 'Roboto', sans-serif;
+  background: #47488b;
+  color: #eee5df;
+}
+
+* {
+  overflow: hidden;
+}
